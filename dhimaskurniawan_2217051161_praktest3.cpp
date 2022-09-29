@@ -7,7 +7,7 @@ int main(){
 	cin>>n;
 	cin>>m;
 	cout<<"\n";
-	for(int a = n; a <m ; a+=n){
+	for(int a = n; a <=m ; a+=n){
 		cout<<a<<"\n";
 	}
 	
